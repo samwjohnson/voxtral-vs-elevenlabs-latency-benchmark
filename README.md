@@ -1,4 +1,4 @@
-# Voxtral vs ElevenLabs: Voxtral wins in speech-to-text, ElevenLabs wins in text-to-speech
+# Voxtral vs ElevenLabs: Voxtral wins in speech-to-text, ElevenLabs wins in text-to-speech but Voxtral fastest overall in streaming across both STT and TTS
 
 Measuring speech-to-text and text-to-speech latency for Voxtral (Mistral) and ElevenLabs under one methodology.
 
