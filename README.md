@@ -2,6 +2,12 @@
 
 Measuring speech-to-text and text-to-speech latency for Voxtral (Mistral) and ElevenLabs under one methodology.
 
+**Models used**
+- Voxtral STT — Mistral hosted API model ID `voxtral-mini-transcribe-realtime-3`
+- Voxtral TTS — Mistral hosted API model ID `voxtral-mini-tts-3-0`
+- ElevenLabs STT — `scribe_v2_realtime`
+- ElevenLabs TTS — Flash model `eleven_flash_v2_5` (HTTP stream and WebSocket text-input; Oct 22 verified numbers)
+
 **What we timed**
 - STT: time to first text
 - TTS: time to first audio
